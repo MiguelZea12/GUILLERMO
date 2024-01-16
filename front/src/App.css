@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.panel {
+  background-color: #f0f0f0; /* Color del fondo del panel */
+  border: 1px solid #ccc; /* Borde del panel */
+  padding: 20px; /* Espaciado interno del panel */
+  max-width: 600px; /* Ancho máximo del panel */
+  margin: 0 auto; /* Centrar el panel en la página */
+  border-radius: 10px; /* Bordes redondeados del panel */
+}
+
+.UlMensajes {
+  list-style-type: none; /* Eliminar viñetas de la lista de mensajes */
+  padding: 0; /* Eliminar el espacio interno de la lista de mensajes */
+}
+
+.LiMensaje {
+  margin-bottom: 8px; /* Espaciado entre mensajes */
+}
+
+.inputMensaje {
+  margin-top: 10px; /* Espaciado superior del campo de entrada de mensajes */
+}
+
+.buttonEnviar {
+  margin-top: 10px; /* Espaciado superior del botón de enviar mensajes */
+}
+
+/* Otros estilos (puedes ajustar según tus preferencias) */
+h2 {
+  color: #333; /* Color del texto */
+}
+
